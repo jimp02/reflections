@@ -4,3 +4,10 @@ What happens when you initialize a repository? Why do you need to do it?
     It creats a repository. The files are listed with "git status" as untracked.
 	Nothing is added to commit.
 
+How is the staging area different from the working directory and the repository? What
+value do you think it offers?
+
+	The staging area stores information from the working directory without updating
+	the repositiry. It allows several logical changes to be tested before making a
+	repository commit.
+
