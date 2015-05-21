@@ -1,0 +1,42 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    The diff listed only the changed lines, not the entire document.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It is easier to check for errors.
+    It is easier to revert to a previous version.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Manual Choosing:
+    Pro - Can commit single logical changes.
+    Con - May forget or choose poorly.
+    Automatic Choosing:
+    Pro - Will not forget to commit.
+    Con - May not save at a logical place.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Source code, like Git, may require changes to multiple files simultaneously.
+    Text files, like Google Code, usually change only one file at a time.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Use git log to list the commits. Use git diff to review the changes.
+    The previous commit is the one below the change, not the one above.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Prevoius versions can be restored.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Use Git as a C++ programming aid. Specifically to revert to previous version
+    when necessary.
