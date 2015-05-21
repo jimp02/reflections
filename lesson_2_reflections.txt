@@ -11,3 +11,14 @@ value do you think it offers?
 	the repositiry. It allows several logical changes to be tested before making a
 	repository commit.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Files can be added to the staging area without updating the repository.
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+
+	Branches are used when you want to make changes that are not part of the master branch.
+	The branches can be updated independently of the master branch.
+
+
