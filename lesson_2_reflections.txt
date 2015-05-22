@@ -21,4 +21,15 @@ How would branches help?
 	Branches are used when you want to make changes that are not part of the master branch.
 	The branches can be updated independently of the master branch.
 
+How do the diagrams help you visualize the branch structure?
 
+	They show the commits associated with each branch and any unreachable commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	The result is one master branch. A new branch is created and all commits are retained.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Automatic merging is fast but cannot always resolve conflicts.
+	Manual merging is slow but can resolve all conflicts.
